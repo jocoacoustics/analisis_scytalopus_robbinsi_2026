@@ -1,0 +1,8 @@
+{
+  "schema": "scytalopus-public-series-v1",
+  "source": "versiones/v4.6.3/04_graficos/series",
+  "files": 79,
+  "bytes": 2030727954,
+  "mode": "historical_html_copy_no_recalculation",
+  "legacy_positive_trace": "hidden_in_wrapper_only"
+}
