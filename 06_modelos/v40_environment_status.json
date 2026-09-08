@@ -1,0 +1,15 @@
+{
+  "available": false,
+  "path": "/content/drive/Shareddrives/CONSERVACION/2. Especies/2.  Scytalopus robbinsi - El Oro Tapaculo/Análisis/Analisis_Scytalopus_robbinsi_2026/data/processed/covariables_ambientales_punto_anio.parquet",
+  "model_M4_executed": false,
+  "model_ENV_executed": false,
+  "base_winner": "T0 · logística temporal fina",
+  "winner_rule": "AP → MCC → F1",
+  "materialization": {
+    "ok": false,
+    "action": "external_environment_source_not_configured",
+    "path": "/content/drive/Shareddrives/CONSERVACION/2. Especies/2.  Scytalopus robbinsi - El Oro Tapaculo/Análisis/Analisis_Scytalopus_robbinsi_2026/data/processed/covariables_ambientales_punto_anio.parquet",
+    "note": "No existe el parquet ambiental y data/metadata/earth_engine_v4.json no habilita una fuente aprobada. El análisis acústico-temporal sigue siendo válido; no se inventan covariables."
+  },
+  "note": "No existe el parquet ambiental y data/metadata/earth_engine_v4.json no habilita una fuente aprobada. El análisis acústico-temporal sigue siendo válido; no se inventan covariables."
+}
